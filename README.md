@@ -1,16 +1,3 @@
-Frontend Jobs
+# [Frontend Jobs](https://frontendjobs.tech)
 
-https://frontendjobs.tech
-
----
-
-# Setup
-
-ENV vars
-
-```
-process.env.SANITY_PROJECT_ID,
-process.env.SANITY_DATASET (optional)
-process.env.SANITY_TOKEN
-process.env.STRIPE_SECRET_KEY
-```
+Sorry, this code isn't really expected to run, but if you're interested in looking at a medium-scale Gatsby/React project, this could be interesting! Frontend Jobs was [shut down](https://twitter.com/signalnerve/status/1157336318206070785) in August 2019.
